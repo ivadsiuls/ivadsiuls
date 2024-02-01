@@ -11,3 +11,9 @@
 ### Most projects of mine are Open Source.
 
 Check my [repositories](https://github.com/ivadsiuls?tab=repositories) to see my projects.
+
+## Support me!
+
+[Buy me a coffe!](https://www.buymeacoffee.com/ivadsiuls)
+
+[Follow me on ROBLOX!](https://www.roblox.com/users/5048508312/profile)
