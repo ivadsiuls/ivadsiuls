@@ -1,5 +1,5 @@
 # 📝 Roblox Developer
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivadsiuls&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivadsiuls&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
 
 #### My Skills:
 - UI Designing (where I have the most fun, and my best skill)
