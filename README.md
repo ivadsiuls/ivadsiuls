@@ -12,7 +12,7 @@
 
 Check my [repositories](https://github.com/ivadsiuls?tab=repositories) to see my projects.
 
-## Support me!
+## Support me! 👍
 
 [Buy me a coffe!](https://www.buymeacoffee.com/ivadsiuls)
 
