@@ -8,4 +8,6 @@
 
 #### if you'd like to hire me for commissions, please contact me on ROBLOX. Messages are opened to followers 👍.
 
+### Most projects of mine are Open Source.
+
 Check my repositories to see my projects: https://github.com/ivadsiuls?tab=repositories
