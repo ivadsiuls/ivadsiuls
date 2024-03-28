@@ -1,5 +1,5 @@
 # 📝 Roblox Developer
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivadsiuls&size_weight=0.5&count_weight=0.5&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ### Most projects of mine are Open Source.
 
