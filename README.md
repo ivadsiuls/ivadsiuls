@@ -3,7 +3,7 @@
 
 ### Most projects of mine are Open Source.
 
-||test||
+`print("gud gamez")`
 
 Check my [repositories](https://github.com/ivadsiuls?tab=repositories) to see my projects.
 Also, Visit here ➡️: [website](https://ivadsiuls.github.io)
