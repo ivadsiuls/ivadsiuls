@@ -4,7 +4,7 @@
 ### Most projects of mine are Open Source.
 
 Check my [repositories](https://github.com/ivadsiuls?tab=repositories) to see my projects.
-Visit here ➡️: [website](https://ivadsiuls.github.io)
+Also, Visit here ➡️: [website](https://ivadsiuls.github.io)
 
 ## Support me! 👍
 
