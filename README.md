@@ -54,9 +54,7 @@
       </a>
       <br>Typescript
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100">
+   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="50" />
       <br>React
     </td>
@@ -68,9 +66,7 @@
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-  </tr>
- <tr>
-      <td align="center" width="100">
+  <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="50" />
       <br>Git
     </td>
@@ -82,7 +78,7 @@
         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="linu" />
       <br>Javascript
     </td>   
- </tr>
+  </tr>
 </table>
 <br><br>
 </div>
