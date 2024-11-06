@@ -9,7 +9,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at https://x.com/ivadsiuls_</samp> 
+<samp>- 📫 Reach me at [https://x.com/ivadsiuls_]</samp> 
 
 <samp>- 📫 Reach me at https://ivadsiuls.dev</samp> 
 
