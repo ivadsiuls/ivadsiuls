@@ -102,5 +102,5 @@
 
 <h3 align="center"><samp>✍️ Random quote</samp></h3>
     <div>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
+      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
     </div>
