@@ -41,31 +41,23 @@
       <a href="#macropower-tech">
         <img src="https://skillicons.dev/icons?i=lua" alt="icon" width="45" height="45" />
       </a>
-      <br>Flutter
+      <br>Lua
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Dart
+      <br>Kotlin
     </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="45" height="45" />
       </a>
-      <br>Firebase
-    </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="50" />
-      <br>BLoC
-    </td>
-   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
-      <td align="center" width="100">
-        <img src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
+      <br>Typescript
     </td>
   </tr>
   <tr>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="50" />
+      <br>React
+    </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -76,9 +68,13 @@
     </td>
   </tr>
  <tr>
+      <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="50" />
+      <br>Git
+    </td>
             <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
+      <br>VS Code
     </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
