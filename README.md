@@ -77,7 +77,7 @@
       <br>VS Code
     </td>
 <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="linu" />
+        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="linu" />
       <br>Javascript
     </td>   
  </tr>
