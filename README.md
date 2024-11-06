@@ -9,7 +9,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me on [twitter](https://x.com/ivadsiuls_)</samp> 
+<samp>- 📫 Reach me on [Twitter](https://x.com/ivadsiuls_)</samp> 
 
 <samp>- 🌐 Website [here](https://ivadsiuls.dev)</samp> 
 
