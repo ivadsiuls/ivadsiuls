@@ -20,7 +20,7 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=youtube" alt="icon" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="icon" width="45" height="45" />
       <br>Youtube
     </td>
       <td align="center" width="100">
