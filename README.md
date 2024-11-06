@@ -9,9 +9,9 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me at [https://x.com/ivadsiuls_]</samp> 
+<samp>- 📫 Reach me on [twitter](https://x.com/ivadsiuls_)</samp> 
 
-<samp>- 📫 Reach me at https://ivadsiuls.dev</samp> 
+<samp>- 🌐 Website [here](https://ivadsiuls.dev)</samp> 
 
 <samp>- 🎮 Game developer: I build alot of games!</samp>
 
