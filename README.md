@@ -76,10 +76,10 @@
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VS Code
     </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
-      <br>Windows
-    </td>          
+<td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="linu" />
+      <br>Javascript
+    </td>   
  </tr>
 </table>
 <br><br>
