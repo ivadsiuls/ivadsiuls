@@ -11,7 +11,7 @@
 
 <samp>- 📫 Reach me on [Twitter](https://x.com/ivadsiuls_)</samp> 
 
-<samp>- 🌐 Website [here](https://ivadsiuls.dev)</samp> 
+<samp>- 🌐 I have a website! check it out [here](https://ivadsiuls.dev)</samp> 
 
 <samp>- 🎮 Game developer: I build alot of games!</samp>
 
