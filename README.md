@@ -46,39 +46,17 @@
       <br>Lua
     </td>
     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
       </a>
-      <br>Typescript
-    </td>
-   <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=react" alt="icon" width="45" height="50" />
-      <br>React
-    </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
-    </td>
-  <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=git" alt="icon" width="45" height="50" />
-      <br>Git
-    </td>
-            <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VS Code
-    </td>
-<td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="linu" />
       <br>Javascript
-    </td>   
-  </tr>
+    </td> 
+    <td align="center" width="100">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="45" height="45" />
+      </a>
+      <br>Lua
+    </td>
+</tr>
 </table>
 <br><br>
 </div>
