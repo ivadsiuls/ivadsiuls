@@ -9,7 +9,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 Reach me on [Twitter](https://x.com/ivadsiuls_)</samp> 
+<samp>- 📫 Reach me on [Bluesky](https://bsky.app/profile/ivadsiuls.bsky.social)</samp> 
 
 <samp>- 🌐 I have a website! check it out [here](https://ivadsiuls.dev)</samp> 
 
@@ -22,11 +22,11 @@
 <table align="center">
   <tr>
    <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="icon" width="45" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Youtube" width="45" height="45" />
       <br>Youtube
     </td>
       <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="SQ Lite" />
+        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
       <br>Twitter
     </td>
   </tr>
@@ -52,9 +52,9 @@
     </td> 
     <td align="center" width="100">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=go" alt="icon" width="45" height="45" />
+        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="45" height="45" />
       </a>
-      <br>Lua
+      <br>C#
     </td>
 </tr>
 </table>
@@ -64,8 +64,9 @@
 <h3 align="center"><samp>📟 GitHub Stats</samp></h3>
 <div style="display: flex; justify-content: space-between; align-items: stretch;">
   <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivadsiuls&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed"/>
-	<img align="center" height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivadsiuls&layout=compact&theme=github_dark_dimmed" alt="ivadsiuls Github Rating" width="48%" height="200" style="object fit: cover;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivadsiuls&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="ivadsiuls Top Languages" width="48%" height="200" style="object-fit: cover;"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivadsiuls&theme=github_dark_dimmed" alt="ivadsiuls GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
 </div>
 
 
