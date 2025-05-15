@@ -1,82 +1,14 @@
-<h1 align="center"><samp>Turning Ideas Into Apps</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+## Game Developer
+![line](https://github.com/ivadsiuls/ivadsiuls/blob/ff3d86efaca5c2df01e64ed5c84dc8f9dcc37152/images/line.png)
 
-<h2 align="center"><samp>Hi 👋 I'm ivadsiuls</samp></h2>
-<h3 align="center"><samp>A software engineer from Brazil</samp> </h3>
+<a href="https://ivadsiuls.dev/"><img src="https://github.com/ivadsiuls/ivadsiuls/blob/63b154950ac6d1fa7583a9dd81c79fa23d3b7641/images/siteButton.png"></a>
 
-<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/ivadsiuls/images/refs/heads/main/gif/mario-working.gif">
+![line](https://github.com/ivadsiuls/ivadsiuls/blob/ff3d86efaca5c2df01e64ed5c84dc8f9dcc37152/images/line.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivadsiuls&label=Profile%20views&color=0e75b6&style=flat" alt="ivadsiuls" /> </p>
-
-<div style="margin-bottom: 200px;"></div>
-
-<samp>- 📫 Reach me on [Bluesky](https://bsky.app/profile/ivadsiuls.bsky.social)</samp> 
-
-<samp>- 🌐 I have a website! check it out [here](https://ivadsiuls.dev)</samp> 
-
-<samp>- 🎮 Game developer: I build alot of games!</samp>
-
-
-
-<h3 align="center"><samp>Connect</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-   <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg" alt="Youtube" width="45" height="45" />
-      <br>Youtube
-    </td>
-      <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=twitter" width="45" height="45" alt="Twitter" />
-      <br>Twitter
-    </td>
-  </tr>
-</table>
-<br><br>
-</div>
-
-
-<h3 align="center"><samp>💻 Languages and Tools</samp></h3>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=lua" alt="icon" width="45" height="45" />
-      </a>
-      <br>Lua
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="45" height="45" />
-      </a>
-      <br>Javascript
-    </td> 
-    <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="45" height="45" />
-      </a>
-      <br>C#
-    </td>
-</tr>
-</table>
-<br><br>
-</div>
-
-<h3 align="center"><samp>📟 GitHub Stats</samp></h3>
-<div style="display: flex; justify-content: space-between; align-items: stretch;">
-  <!-- Top Languages Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ivadsiuls&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed" alt="ivadsiuls Top Languages" width="48%" height="200" style="object-fit: cover;"/>
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivadsiuls&theme=github_dark_dimmed" alt="ivadsiuls GitHub Streak" width="48%" height="200" style="object-fit: cover;"/>
-</div>
-
-
-
-
-
-<div style="margin-bottom: 60px;"></div>
-
-
-<h3 align="center"><samp>✍️ Random quote</samp></h3>
-    <div>
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue" alt="Random Dev Quote" />
-    </div>
+![My github stats](https://github-readme-stats.vercel.app/api?username=ivadsiuls&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ivadsiuls&theme=tokyonight" alt="mystreak"/>
+ ![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ivadsiuls&theme=tokyonight&layout=compact)   
+ 
+ ![line](https://github.com/ivadsiuls/ivadsiuls/blob/ff3d86efaca5c2df01e64ed5c84dc8f9dcc37152/images/line.png)
+ 
+[![wakatime](https://wakatime.com/badge/user/afb4cd1a-eb17-4b86-9d09-4662abfe6247.svg)](https://wakatime.com/@afb4cd1a-eb17-4b86-9d09-4662abfe6247)
