@@ -29,6 +29,8 @@
 
 [CodeKit](https://github.com/ivadsiuls/CodeKit) — A Roblox coding toolkit with everything you need
 
+[Prism](https://github.com/twistedsignal/prism) — Plugin to render your models easily
+
 #### Libraries
 [ui](https://github.com/twistedsignal/ui) — Creating reactive UI with code sucks. Bind it instead!
 
