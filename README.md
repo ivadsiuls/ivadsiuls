@@ -9,12 +9,22 @@
 * 🌍  Based in Brazil 🇧🇷
 
 ### Tech I'm passionate about
+
+#### Languages
+<div style="display: flex;">
+  <a href="https://lua.org"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" /></a>
+  <a href="https://odin-lang.org"><img src="https://cdn.simpleicons.org/odin/3882D2" width="48" height="48" alt="Godot Engine" /></a>
+</div>
+
+#### Engines
 <div style="display: flex;">
   <a href="https://create.roblox.com"><img src="https://cdn.simpleicons.org/robloxstudio/00A2FF" width="48" height="48" alt="Roblox Studio" /></a>
-  <a href="https://lua.org"><img src="https://skillicons.dev/icons?i=lua" width="48" height="48" alt="Lua" /></a>
   <a href="https://godotengine.org/"><img src="https://skillicons.dev/icons?i=godot" width="48" height="48" alt="Godot Engine" /></a>
+</div>
+
+#### My operating system
+<div style="display: flex;">
   <a href="https://omarchy.org"><img src="https://raw.githubusercontent.com/omacom/omarchy-site/refs/heads/master/icon.svg" width="48" height="48" alt="Omarchy"/></a>
-  <a href="https://bun.sh"><img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" /></a>
 </div>
 
 ### Stats
