@@ -33,15 +33,16 @@
 
 ### Current Projects
 #### Tools
-[Raven](https://github.com/twistedsignal/raven) — CLI tool to interact with the Roblox OpenCloud API
+⭐ [Raven](https://github.com/twistedsignal/raven) — CLI tool to interact with the Roblox OpenCloud API
+
+⭐ [CodeKit](https://github.com/ivadsiuls/CodeKit) — A Roblox coding toolkit with everything you need
+
+⭐ [Prism](https://github.com/twistedsignal/prism) — Plugin to render your models easily
 
 [VSC Asset Manager](https://github.com/twistedsignal/vsassetmanager) — A VSCode Roblox Asset Manager plugin
 
-[CodeKit](https://github.com/ivadsiuls/CodeKit) — A Roblox coding toolkit with everything you need
-
-[Prism](https://github.com/twistedsignal/prism) — Plugin to render your models easily
 
 #### Libraries
-[ui](https://github.com/twistedsignal/ui) — Creating reactive UI with code sucks. Bind it instead!
+⭐ [ui](https://github.com/twistedsignal/ui) — Creating reactive UI with code sucks. Bind it instead!
 
 [rainbow-vignette](https://github.com/ivadsiuls/rainbow-vignette?tab=readme-ov-file) — A simple animated rainbow vignette component for Roblox.
