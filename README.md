@@ -7,6 +7,7 @@
 
 * 🎮  Programming games since 2019
 * 🌍  Based in Brazil 🇧🇷
+* 🛠️ I build and maintain tools for Roblox developers
 
 ### Tech I'm passionate about
 
@@ -32,12 +33,16 @@
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ivadsiuls&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=ivadsiuls&custom_title=My%20GitHub%20Stats&include_all_commits=true&theme=dark_github)
 
 ### Current Projects
-#### Tools
-⭐ [Raven](https://github.com/twistedsignal/raven) — CLI tool to interact with the Roblox OpenCloud API
 
+#### Plugin Suite
 ⭐ [CodeKit](https://github.com/ivadsiuls/CodeKit) — A Roblox coding toolkit with everything you need
 
 ⭐ [Prism](https://github.com/twistedsignal/prism) — Plugin to render your models easily
+
+⭐ [Photon](https://github.com/twistedsignal/photon) — Save, load, share and preview Roblox lighting presets.
+
+#### Tools
+⭐ [Raven](https://github.com/twistedsignal/raven) — CLI tool to interact with the Roblox OpenCloud API
 
 [VSC Asset Manager](https://github.com/twistedsignal/vsassetmanager) — A VSCode Roblox Asset Manager plugin
 
